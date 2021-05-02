@@ -1,3 +1,4 @@
+| | |
 | :-----------: | -------------: |
 | ![](https://www.unirioja.es/imagenes/cabecera/cabecera_r1_c1.gif) | Metodologías avanzadas de programación para la ciencia de datos <br> Máster universitario en Ciencia de Datos y Aprendizaje Automático <br> Curso 2020 / 2021 |
 | Fecha:   2 / 05 / 2021 | Nombre DIEGO POLO BENITO |
